@@ -1,11 +1,9 @@
-### Hi there 👋
+<a href="https://solved.ac/alwwwwways"><img alt="solved.ac" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwwwwways"/></a>
+### Hi there 👋 
 
-I'm Stuyding in KT AIVLE School Now..
+I'm Stuyding in KT AIVLE School Now.. 
 
-<div>
-  <a href="https://solved.ac/alwwwwways"><img alt="solved.ac" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwwwwways"/></a>
-  <a href="https://aivle.kt.co.kr/"><img src="https://img.shields.io/badge/-KT%20AIVLE-blue" /></a>
-</div>
+<a href="https://aivle.kt.co.kr/"><img src="https://img.shields.io/badge/-KT%20AIVLE-blue" /></a>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
