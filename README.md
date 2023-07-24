@@ -1,7 +1,7 @@
 <a href="https://solved.ac/alwwwwways"><img alt="solved.ac" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alwwwwways"/></a>
 ### Hi there 👋 
 
-I'm Stuyding in KT AIVLE School Now.. 
+
 
 <a href="https://aivle.kt.co.kr/"><img src="https://img.shields.io/badge/-KT%20AIVLE-blue" /></a>
 
