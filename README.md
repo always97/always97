@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-007396?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next&logoColor=black" />
+	<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 </div>
 
 
