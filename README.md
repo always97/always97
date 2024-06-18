@@ -3,8 +3,6 @@
 
 
 
-<a href="https://aivle.kt.co.kr/"><img src="https://img.shields.io/badge/-KT%20AIVLE-blue" /></a>
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
